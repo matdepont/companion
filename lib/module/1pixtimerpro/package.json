@@ -1,0 +1,17 @@
+{
+  "name": "pixtimerpro",
+  "legacy": ["piXtimer_pro"],
+  "version": "1.0.0",
+	"api_version": "1.0.0",
+  "keywords": [ "Media Server", "Software", "Video" ],
+  "manufacturer": "PixAp",
+  "product": "piXtimer Pro",
+  "shortname": "pixtimer",
+  "description": "piXtimer Pro plugin for Companion",
+  "main": "pixtimer-pro.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Matteo Buttice <matteo@opserveur.fr>",
+  "license": "MIT"
+}
